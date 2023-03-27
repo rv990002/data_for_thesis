@@ -1,0 +1,7 @@
+echo "# data_for_thesis" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rv990002/data_for_thesis.git
+git push -u origin main
